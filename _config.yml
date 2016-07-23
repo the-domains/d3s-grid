@@ -1,0 +1,14 @@
+layout_spectrum: 0.9650698113255203
+typography_spectrum: 0.09397462662309408
+color:
+  brandStrength: 0.429640632821247
+  lightness: 0.1910184952430427
+  saturation: 0.019869227893650532
+  rhythmicContrast: 0.2535446514375508
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+name: D3's Grid
