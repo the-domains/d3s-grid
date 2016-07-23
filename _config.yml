@@ -1,15 +1,15 @@
 layout_spectrum: 0.9650698113255203
-typography_spectrum: 0.09397462662309408
+typography_spectrum: 0.23349553695879877
 color:
-  brandStrength: 0.429640632821247
-  lightness: 0.1910184952430427
-  saturation: 0.019869227893650532
-  rhythmicContrast: 0.2535446514375508
+  brandStrength: 0.17635139729827642
+  lightness: 0.5586493671871722
+  saturation: 0.3191764592193067
+  rhythmicContrast: 0.7543689589947462
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: D3's Grid
 navigation: []
